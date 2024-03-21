@@ -11,3 +11,8 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+Deploying Airdrop V1...
+AirdropV1 deployed to: 0x83bac192f2fa774962a538D2ee300695f84eea6f
+Funding the Airdrop
+Airdrop Funded...
